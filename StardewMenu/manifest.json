@@ -1,0 +1,14 @@
+﻿{
+  "Name": "StardewMenu",
+  "Authour": "teseting",
+  "Version": {
+    "MajorVersion": 1,
+    "MinorVersion": 1,
+    "PatchVersion": 1,
+    "Build": "1"
+  },
+  "Description": "Change Clint's shop menu",
+  "UniqueID": "Letca1fmzx5p",
+  "PerSaveConfigs": false,
+  "EntryDll": "StardewMenu.dll"
+}
