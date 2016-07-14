@@ -18,9 +18,7 @@ namespace StardewMenu
             stock.Add(new Dictionary<string, int>() { { "id", 380 }, { "amount", 0 }, { "cost", 150 } });
             stock.Add(new Dictionary<string, int>() { { "id", 382 }, { "amount", 0 }, { "cost", 150 } });
             stock.Add(new Dictionary<string, int>() { { "id", 384 }, { "amount", 0 }, { "cost", 400 } });
-            stock.Add(new Dictionary<string, int>() { { "id", 386 }, { "amount", 0 }, { "cost", 750 } });
-           // Dictionary<Item, int[]> dictionary = new Dictionary<Item, int[]>();
-
+            //stock.Add(new Dictionary<string, int>() { { "id", 386 }, { "amount", 0 }, { "cost", 750 } });
             return this as T;
         }
     }
